@@ -1,5 +1,5 @@
-Curso: Especialización en Python
-Nivel: Módulo I
+# Curso: Especialización en Python
+## Nivel: Módulo I
 Lugar: CERSEU - UNMSM
-Alumno: Angelo 
+Alumno: Angelo Silva
 Profesor: Anthony Carrillo
